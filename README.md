@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @vulkan07
-- 👀 I’m interested in games, and graphics programs
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on a small indie game
-- 📫 How to reach me: olahbozobarnabas@gmail.com
-
-<!---
-vulkan07/vulkan07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm learning C++ recently, have been using Java for years, and also use python for various smaller tasks.
+I'm into game development and graphical programming, I've made my own game engine in Java+OpenGL, and now I'm (trying to) rewrite it in C++.
+I also mod existing games, like Minecraft (vulkan07/Mortisomnia, an experimental horror mod)
+I also host www.ezamedia.hu, a joke website with stupid content, but a great opportunity to learn frontend+backend development. No frameworks >:)
+I'm planning a web-based timetable system that would make a better interface of my school's goofy substitution site.
+I'm also a fan of embedded systems, assembly, microcontrollers, studying them bit by bit..
